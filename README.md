@@ -53,5 +53,8 @@ Personally: Atom One Dark theme
   - In GitHub Desktop
   - In VS Code
 - Make changes: add and commit
+  - In GitHub web UI
+  - In VS Code
 - Synchronize with GitHub: push and pull
 - View history
+- Non-linear history: branches and pull request
